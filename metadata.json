@@ -1,0 +1,6 @@
+{
+  "name": "Crypto Matrix Terminal",
+  "description": "Modern ve profesyonel, yapay zeka destekli kripto analiz ve teknik gösterge platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
